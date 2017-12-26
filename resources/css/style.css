@@ -3,3 +3,8 @@ h1 {
   background-color: purple;
   text-align: center;
 }
+
+p {
+  color: purple;
+  background-color: green;
+}
