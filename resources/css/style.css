@@ -1,9 +1,21 @@
-h1 {
-  color:green;
-  background-color: purple;
+.header {
+  color: white;
+  font-size: 50px;
   text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
+.download {
+  color: adquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
 p {
   color: purple;
   background-color: green;
