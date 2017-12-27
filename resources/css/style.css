@@ -47,3 +47,8 @@ body {
   color: white;
   padding-bottom: 24px;
 }
+
+#excursion {
+  text-align: right;
+  color: grey;
+}
